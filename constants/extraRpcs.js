@@ -2025,6 +2025,9 @@ export const extraRpcs = {
     ],
   },
   311: {
+    rpcs: ['https://infura.sftproject.io/filecoin/rpc/v1'],
+  },
+  314: {
     rpcs: ['https://mainapi.omaxray.com/'],
   },
   13000: {
